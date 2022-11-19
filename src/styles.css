@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  border: 5px solid black;
+  width: 100%;
+  height: 10vh;
+}
+
+.section {
+  border: 1px solid black;
+  background-color: #ffffff;
+  height: 30vh;
+  width: 100%;
+  overflow: scroll;
+}
+
+.footer {
+  background-color: steelblue;
+  height: 10vh;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
